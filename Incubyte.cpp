@@ -18,7 +18,7 @@ public:
         this->direction = direction;
     }
 
-    // Function to move the Pragyan forward or backward
+    // Function to move the Pragyan forward or backward'
     void move(char command)
     {
         if (command == 'f')
